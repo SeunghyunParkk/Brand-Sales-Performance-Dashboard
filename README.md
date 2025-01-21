@@ -1,6 +1,6 @@
 # Online Sales Performance Dashboard
 
-![Dashboard](images/sales_overview.gif)
+![Dashboard](images/sales_overview.gif) 
 
 ## Overview
 This project involves an **Online Sales Performance Dashboard** for a clothing brand. Built using Microsoft Excel, the dashboard provides actionable insights into key sales metrics, product performance, regional trends, and customer satisfaction. The dashboard is designed to support data-driven decision-making for marketing and sales strategies.
