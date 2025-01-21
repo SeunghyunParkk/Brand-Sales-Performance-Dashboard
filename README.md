@@ -69,12 +69,5 @@ This project involves an **Online Sales Performance Dashboard** for a clothing b
 
 ---
 
-## Screenshots
-
-### Sales Overview
-![Sales Overview](images/sales_overview.png)
-
----
-
 ## Author
 **Seunghyun Park**
